@@ -28,5 +28,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build . --tag ghcr.io/tnps-29/pub-doc-img:latest
-          docker push ghcr.io/tnps-29/pub-doc-img:latest
+          docker build . --tag ghcr.io/Sirawit44/my_sirawit:latest
+          docker push ghcr.io/Sirawit44/my_sirawit:latest
